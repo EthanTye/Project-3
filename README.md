@@ -1,7 +1,7 @@
 # Subreddit Classification: r/TheOnion and r/nottheonion
 
 
-##Problem Statement
+## Problem Statement
 Fake news is a prevalent and harmful problem in modern society, often misleading the general public on important topics and polices, such as healthcare or taxes. 
 Such misinformation can erode trust in government institutions or news agencies and result in deep seated and persistent societal issues that have a negative impact on public safety and well being.
 
